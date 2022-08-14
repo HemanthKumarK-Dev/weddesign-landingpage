@@ -92,20 +92,22 @@ nav{
     .nav-items{
         display: none;
     }
-
+ 
     [alt="logo"]{
         width: 30%;
-    }
 
+    }
+    
     .signin-btn{
-        position: absolute;
-        left :70%;
-        top: 2%;
-        padding: 10px 30px;
+        display: flex;
+        align-items: center;
+        padding: 20px 30px;
+        justify-content: end;
         border-radius: 20px;
         color: #ffffff;
         background:linear-gradient(to right,#9F2BC1, #E1A2B8);
         border: none;
+        margin-left: 100px;
     }
     
     .intro-section{
