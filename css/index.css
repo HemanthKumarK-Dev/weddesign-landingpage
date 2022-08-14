@@ -92,23 +92,32 @@ nav{
     .nav-items{
         display: none;
     }
- 
-    [alt="logo"]{
-        width: 30%;
 
+    [alt="logo"]{
+        width: 20%;
+
+    }
+    nav{
+        display: flex;
+        justify-content: start;
+        align-items: center;
+        width: 100%;
+   
     }
     
     .signin-btn{
         display: flex;
         align-items: center;
-        padding: 20px 30px;
+        margin-left: 240px;
+        padding: 10px 30px;
         justify-content: end;
         border-radius: 20px;
         color: #ffffff;
         background:linear-gradient(to right,#9F2BC1, #E1A2B8);
         border: none;
-        margin-left: 100px;
+
     }
+
     
     .intro-section{
         display: flex;
