@@ -86,6 +86,7 @@ nav{
     body{ 
     background-position: bottom 190px left 50px;
     background-repeat: no-repeat;
+    margin-left: 10px;
     }
 
     .nav-items{
@@ -98,7 +99,7 @@ nav{
 
     .signin-btn{
         position: absolute;
-        left :50%;
+        left :70%;
         top: 2%;
         padding: 10px 30px;
         border-radius: 20px;
