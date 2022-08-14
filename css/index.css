@@ -94,7 +94,7 @@ nav{
     }
 
     [alt="logo"]{
-        width: 20%;
+        width: 30%;
 
     }
     nav{
@@ -108,7 +108,7 @@ nav{
     .signin-btn{
         display: flex;
         align-items: center;
-        margin-left: 200px;
+        margin-left: 180px;
         padding: 10px 30px;
         justify-content: end;
         border-radius: 20px;
